@@ -42,3 +42,61 @@ The automation consists of:
 
 ## 📂 Repository Structure
 
+
+---
+
+## ⚙️ How to Use
+
+1. Clone this repository
+2. Open **n8n** (local or cloud)
+3. Import `rag-chatbot-workflow.json`
+4. Configure credentials:
+   - OpenAI API Key
+   - Pinecone API Key
+5. Upload documents using the form trigger
+6. Start chatting with the AI agent
+
+---
+
+## 🔐 Credentials Required
+
+- **OpenAI API Key**
+- **Pinecone API Key**
+- **Pinecone Index**
+
+> ⚠️ Do not hard-code API keys inside the workflow before committing.
+
+---
+
+## 📌 Use Cases
+
+- Knowledge base chatbot
+- FAQ automation
+- Internal documentation assistant
+- Learning and experimentation with RAG pipelines
+- AI agent prototyping using n8n
+
+---
+
+## 🎯 Learning Outcome
+
+This project demonstrates:
+- Practical RAG implementation
+- Vector database integration
+- AI agent orchestration
+- Workflow-based AI automation
+- Prompt + retrieval design
+
+---
+
+## 👨‍💻 Author
+
+**B. Harinaath**  
+Integrated MTech – Software Engineering  
+VIT Chennai  
+
+---
+
+## ⭐ If you like this project
+Give the repo a star ⭐ and feel free to fork!
+
